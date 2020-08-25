@@ -1,0 +1,14 @@
+.header-main{
+    background:linear-gradient(90deg,#ff5d3b 0,#ff4500 30%,#ffbc00)!important;
+    color:white;
+    text-align:center;
+
+}
+.head-text{
+    font-family: 'Amaranth';
+    color:white;
+    text-shadow:-5px -5px black;
+}
+.centerer{
+    text-align:center;
+}
