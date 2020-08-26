@@ -4,3 +4,7 @@
 .loggedOut{
     border-radius:5px;
 }
+.chatbox{
+    max-width: 20rem;
+}
+

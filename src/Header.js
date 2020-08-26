@@ -44,7 +44,7 @@ function Header() {
             {
                 chat.map((cat)=>{
                     return(
-                        <Item username={username} nouser={cat.data.username} chat={cat.data.chat} />
+                       <Item username={username} nouser={cat.data.username} chat={cat.data.chat} />
                     )
                 })
             }
